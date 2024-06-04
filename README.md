@@ -1,4 +1,3 @@
-# decoder
 # Decoder Project
 
 # Summary:
